@@ -1,6 +1,3 @@
-# Fnu Geetika, Varun Kapuria
-# MIS 545 Section 01
-
 # Install Tidyverse and Dummies Package
 # install.packages("tidyverse")
 # install.packages("dummies", repos = NULL, type="source")
